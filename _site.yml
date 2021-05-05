@@ -1,0 +1,12 @@
+name: "hhhh840712.github.io"
+title: "Yang51"
+description: |
+  Yang51
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
