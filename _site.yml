@@ -3,6 +3,7 @@ title: "Yang51"
 description: |
   Yang51
 output_dir: "docs"
+base_url: https://hhhh840712.github.io/
 navbar:
   right:
     - text: "Home"

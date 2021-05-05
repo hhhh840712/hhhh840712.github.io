@@ -1,0 +1,24 @@
+---
+title: "Finish my set up for distill blog!"
+description: |
+  A short description of the post.
+author:
+  - name: David Yang
+date: 05-04-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Finally got done with setting up my blog!! Loving it :)
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+
